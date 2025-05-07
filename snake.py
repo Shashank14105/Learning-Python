@@ -1,3 +1,4 @@
+# Snake Tail Game By Shashank
 import turtle
 import time
 import random
